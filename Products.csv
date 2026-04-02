@@ -1,0 +1,21 @@
+ProductID,ProductName,Category,CostPrice
+1,Product 1,Office Supplies,45
+2,Product 2,Furniture,80
+3,Product 3,Electronics,60
+4,Product 4,Furniture,80
+5,Product 5,Furniture,60
+6,Product 6,Accessories,60
+7,Product 7,Furniture,120
+8,Product 8,Furniture,45
+9,Product 9,Accessories,45
+10,Product 10,Accessories,60
+11,Product 11,Electronics,45
+12,Product 12,Office Supplies,30
+13,Product 13,Furniture,60
+14,Product 14,Accessories,45
+15,Product 15,Electronics,30
+16,Product 16,Office Supplies,120
+17,Product 17,Accessories,45
+18,Product 18,Office Supplies,30
+19,Product 19,Office Supplies,80
+20,Product 20,Furniture,80

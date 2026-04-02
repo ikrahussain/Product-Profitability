@@ -1,0 +1,26 @@
+EmployeeID,EmployeeName,Department,HireDate,MonthlySalary
+1,Employee 1,Online Sales,2018-08-27,15000
+2,Employee 2,Sales,2021-01-10,25000
+3,Employee 3,Corporate Sales,2021-10-18,30000
+4,Employee 4,Online Sales,2022-03-08,15000
+5,Employee 5,Corporate Sales,2022-07-26,15000
+6,Employee 6,Online Sales,2018-02-06,22000
+7,Employee 7,Online Sales,2023-06-20,25000
+8,Employee 8,Sales,2021-11-26,30000
+9,Employee 9,Sales,2022-01-30,18000
+10,Employee 10,Online Sales,2021-05-09,15000
+11,Employee 11,Sales,2023-07-16,30000
+12,Employee 12,Online Sales,2020-04-12,18000
+13,Employee 13,Online Sales,2019-08-20,25000
+14,Employee 14,Corporate Sales,2019-12-01,25000
+15,Employee 15,Sales,2022-07-05,30000
+16,Employee 16,Sales,2023-07-12,18000
+17,Employee 17,Sales,2019-03-17,25000
+18,Employee 18,Corporate Sales,2023-02-04,30000
+19,Employee 19,Corporate Sales,2022-06-29,25000
+20,Employee 20,Corporate Sales,2022-03-10,25000
+21,Employee 21,Sales,2020-12-30,25000
+22,Employee 22,Sales,2019-07-22,22000
+23,Employee 23,Sales,2018-08-24,18000
+24,Employee 24,Corporate Sales,2021-07-28,30000
+25,Employee 25,Corporate Sales,2021-03-31,30000
