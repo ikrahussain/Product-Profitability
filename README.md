@@ -27,11 +27,10 @@ The main objective was to identify key drivers of profitability, highlight high-
 
 ## Overview
 
-
-- **Motivation:**
+**Motivation:**
 - I chose this dataset because it provides a comprehensive view of business operations, including sales, customers, employees and products, which makes it ideal for analysing overall business performance. The dataset allows for exploration of real-world business challenges such as revenue growth, profitability and workforce efficiency. I was particularly interested in understanding how different factors—such as customer segments, regions, and discounting—impact business success and decision-making.-
 
-- **Objective:**
+**Objective:**
 - The main objective of this analysis was to evaluate business performance and identify key drivers of revenue and profit. Specifically, the project aimed to answer the following questions:
 - How do revenue and profit trends change over time?
 - Which products and categories contribute the most to sales and profitability?
@@ -40,7 +39,7 @@ The main objective was to identify key drivers of profitability, highlight high-
 - What risks (e.g., heavy discounting, reliance on specific customers/regions) and opportunities exist for improving business performance?
 - What question(s) are you trying to answer through this analysis?  
 
-- **Learning Outcomes:** What did you learn while working on this project?
+**Learning Outcomes:** What did you learn while working on this project?
 - Through this project, I developed a stronger understanding of how to use Power BI to transform raw data into meaningful insights. I learned how to:
 - Create data models by linking multiple tables (customers, sales, products, employees and calendar data).
 - Build interactive dashboards to visualise trends in revenue, profit and sales performance.
@@ -57,7 +56,7 @@ Provide details about the dataset used:
 Source of the dataset:
 - The dataset used in this project is a structured business dataset containing sales, customer, product and employee data. It was used to simulate real-world business operations and support analysis within Microsoft Power BI. The dataset was provided by ITonline Learning.
   
-*Size of the dataset:*
+Size of the dataset:
 - The dataset is composed of multiple related tables:
 - Sales Table: 1,200 rows, containing transactional sales data (largest table)
 - Customer Table: 300 rows
@@ -65,8 +64,8 @@ Source of the dataset:
 - Employees Table: 25 rows
 - Calendar Table: 730 rows (covering the full date range)
 - Each table contains approximately 5–15 columns depending on the entity.
-  
-- Key features/columns used:
+
+Key features/columns used:
 - The analysis focused on the following key fields:
 - Sales Table: Sale ID,Date, Product ID, Customer ID, Employee ID, Quantity, Unit Price, Discount, Cost Price, Revenue, Profit and High Discount Flag. 
 - Customer Table: Customer ID, Region (e.g., East, North), Customer Type, Signup Date and Total Revenue 
@@ -76,34 +75,34 @@ Source of the dataset:
   
 - These features were essential for analysing revenue trends, profitability, product performanc and workforce effectiveness.
 
-- Preprocessing or cleaning Steps:
+Preprocessing or cleaning Steps:
 - Before performing the analysis in Power BI, the dataset was prepared to ensure accuracy and consistency:
   
-- Data Cleaning:
+Data Cleaning:
 - Removed duplicate records in Sales, Customers and Employees tables.
 - Handled missing or null values to avoid errors in calculations (e.g., missing revenue or profit entries).
 - Standardised column names and data types, especially dates in the Calendar table.
-  
-- Data Transformation:
+
+Data Transformation:
 - Created calculated columns and measures:
 - Profit Margin = (Profit / Revenue) × 100
 - Revenue per Employee = Revenue ÷ Number of Employees
 - Categorised products into groups (Furniture, Office Supplies, Electronics) for easier analysis.
   
-- Data Modeling:
+Data Modeling:
 - Established relationships between tables:
 - Sales → Customers, Products, Employees, Calendar
 - Ensured proper cardinality (one-to-many) and cross-filtering to allow accurate drill-through analysis.
   
-- Filtering and Validation:
+Filtering and Validation:
 - Checked for extreme discount values that could skew profit calculations.
 - Validated regional and customer segment data to ensure correct aggregation of revenue and profit.
-  
-- Time Intelligence Preparation:
+
+Time Intelligence Preparation:
 - Used the Calendar table to create time-based hierarchies (Year, Month, Quarter) for revenue and profit trend analysis.
 - Enabled seasonal trend analysis and comparison across years.
 
-- Dashboard-Specific Preparation:
+Dashboard-Specific Preparation:
 - Added measures to support Executive Overview and Customer Drill-Through views.
 - Ensured workforce allocation data was aligned with regions and sales data for performance evaluation.
 
