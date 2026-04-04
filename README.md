@@ -119,9 +119,9 @@ Dashboard-Specific Preparation:
 <p>
   <img src="https://img.shields.io/badge/Excel-3776AB?style=for-the-badge&logo=Excel&logoColor=white" alt="Excel">
   <img src="https://img.shields.io/badge/Power_BI-150458?style=for-the-badge&logo=Power_BI&logoColor=white" alt="Power BI">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn">
+  <img src="https://img.shields.io/badge/DAX-013243?style=for-the-badge&logo=DAX&logoColor=white" alt="DAX">
+  <img src="https://img.shields.io/badge/Power_Query-11557C?style=for-the-badge&logo=Power_Query&logoColor=white" alt="Power Query">
+  <img src="https://img.shields.io/badge/CSV-4C72B0?style=for-the-badge&logo=CSV&logoColor=white" alt="CSV">
 
 </p>
 
