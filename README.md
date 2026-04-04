@@ -149,6 +149,26 @@ Include screenshots of your visualizations if available:
 
 Summarize your findings, insights, and visualizations:
 
+1. Revenue and Profit Trends:
+- Revenue shows steady growth over time with clear seasonal peaks, largely driven by corporate customers in the East and North regions.
+- Profit remains mostly stable but is sensitive to high discounting, which can reduce profit margins.
+- Observation: There is a positive correlation between the regions with higher corporate customer activity and overall revenue growth.
+
+
+Example: 
+<img width="400" height="368" alt="image" src="https://github.com/user-attachments/assets/a4a05aa0-8a39-4079-8e4f-80c1482d059c" />
+
+2. Top Products and Categories:
+- Furniture generates the highest overall revenue and profit.
+- Office Supplies and Accessories show steady sales growth but have lower profit margins.
+- Electronics sales are increasing, though at a lower volume.
+- Observation: High-volume products like Furniture drive profit, while low-volume products like Electronics present growth opportunities.
+
+
+Example: 
+<img width="578" height="728" alt="image" src="https://github.com/user-attachments/assets/d1e6a90d-c7e1-40c1-914d-dfe1e58ed08d" />
+
+
 - Describe the key trends and patterns you observed  
 - Show charts, graphs, and tables  ![Graph](img1.png)
 - Include important observations or correlations found in the data  
