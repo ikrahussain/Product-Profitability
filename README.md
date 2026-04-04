@@ -54,10 +54,10 @@ The main objective was to identify key drivers of profitability, highlight high-
 
 Provide details about the dataset used:
 
-- Source of the dataset:
+Source of the dataset:
 - The dataset used in this project is a structured business dataset containing sales, customer, product and employee data. It was used to simulate real-world business operations and support analysis within Microsoft Power BI. The dataset was provided by ITonline Learning.
   
-- Size of the dataset:
+*Size of the dataset:*
 - The dataset is composed of multiple related tables:
 - Sales Table: 1,200 rows, containing transactional sales data (largest table)
 - Customer Table: 300 rows
