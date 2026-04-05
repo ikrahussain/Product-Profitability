@@ -241,15 +241,15 @@ Further Analysis:
 
 ## Credits
 
+
 - **Collaborators:** Name – [GitHub Profile](https://github.com/USERNAME)  
-- **Dataset Source:** [Link](https://link-to-dataset.com)  
-- **Tutorials / References:** [Link](https://link.com)  
+- **Dataset Source:** [Link]([https://link-to-dataset.com](https://www.itonlinelearning.com/?utm_feeditemid=&utm_device=c&utm_term=itonlinelearning&utm_source=google&utm_medium=ppc&utm_campaign=ITonlinelearning+UK+2021&hsa_cam=6491997354&hsa_grp=79332809913&hsa_mt=e&hsa_src=g&hsa_ad=391784972313&hsa_acc=1636904472&hsa_net=adwords&hsa_kw=itonlinelearning&hsa_tgt=kwd-365009355317&hsa_ver=3&gad_source=1&gad_campaignid=6491997354&gbraid=0AAAAAD0JJNVDJdFiQunigWAsfYUFko_qM&gclid=EAIaIQobChMIvv3Hms7WkwMVnZpQBh3SSBX-EAAYASAAEgJofPD_BwE))  
 
 ---
 
 ## License
 
-This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/) – feel free to use and modify it.  
+This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/) 
 
 ---
 
