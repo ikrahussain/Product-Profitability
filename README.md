@@ -28,7 +28,7 @@ The main objective was to identify key drivers of profitability, highlight high-
 ## Overview
 
 **Motivation:**
-- I chose this dataset because it provides a comprehensive view of business operations, including sales, customers, employees and products, which makes it ideal for analysing overall business performance. The dataset allows for exploration of real-world business challenges such as revenue growth, profitability and workforce efficiency. I was particularly interested in understanding how different factors—such as customer segments, regions, and discounting—impact business success and decision-making.-
+I chose this dataset because it provides a comprehensive view of business operations, including sales, customers, employees and products, which makes it ideal for analysing overall business performance. The dataset allows for exploration of real-world business challenges such as revenue growth, profitability and workforce efficiency. I was particularly interested in understanding how different factors—such as customer segments, regions, and discounting—impact business success and decision-making.-
 
 **Objective:**
 - The main objective of this analysis was to evaluate business performance and identify key drivers of revenue and profit. Specifically, the project aimed to answer the following questions:
@@ -39,8 +39,8 @@ The main objective was to identify key drivers of profitability, highlight high-
 - What risks (e.g., heavy discounting, reliance on specific customers/regions) and opportunities exist for improving business performance?
 - What question(s) are you trying to answer through this analysis?  
 
-**Learning Outcomes:** What did you learn while working on this project?
-- Through this project, I developed a stronger understanding of how to use Power BI to transform raw data into meaningful insights. I learned how to:
+**Learning Outcomes:**
+Through this project, I developed a stronger understanding of how to use Power BI to transform raw data into meaningful insights. I learned how to:
 - Create data models by linking multiple tables (customers, sales, products, employees and calendar data).
 - Build interactive dashboards to visualise trends in revenue, profit and sales performance.
 - Analyse key business metrics such as profit margins and revenue per employee.
@@ -54,7 +54,8 @@ The main objective was to identify key drivers of profitability, highlight high-
 Provide details about the dataset used:
 
 Source of the dataset:
-- The dataset used in this project is a structured business dataset containing sales, customer, product and employee data. It was used to simulate real-world business operations and support analysis within Microsoft Power BI. The dataset was provided by ITonline Learning.
+- The dataset used in this project is a structured business dataset containing sales, customer, product and employee data.
+- It was used to simulate real-world business operations and support analysis within Microsoft Power BI. The dataset was provided by ITonline Learning.
   
 Size of the dataset:
 - The dataset is composed of multiple related tables:
@@ -164,6 +165,7 @@ Instructions for using the project:
   <img width="401" height="378" alt="image" src="https://github.com/user-attachments/assets/03f06589-8adc-4efb-9207-41e512722223" />
 
 4. Risks and Opportunities
+
 Risks:
 - Heavy discounting reduces overall profit margins.
 - Dependence on corporate customers and the Eastern region makes the business vulnerable to changes in these markets.
@@ -179,10 +181,48 @@ Opportunities:
 
 ## Conclusion 
 
-- Summarize the outcome of your analysis  
-- What are the main insights or takeaways?  
-- How could this analysis inform decision-making?  
-- Recommendations or next steps for further analysis  
+Summary of the Analysis:
+
+This project analysed business performance and workforce effectiveness using an interactive Power BI dashboard. The analysis revealed steady revenue growth with seasonal fluctuations, stable profit margins affected by discounting and clear differences in performance across product categories, regions and customer segments. It also highlighted how workforce allocation and customer targeting influence overall sales outcomes.
+
+Main Insights / Takeaways:
+
+Revenue Growth Drivers: 
+- Corporate customers in the East and North regions are the primary contributors to revenue growth.
+
+Profitability Risks: 
+- High discount levels negatively impact profit margins, despite strong sales performance.
+
+Product Performance: 
+- Furniture is the most profitable category, while Office Supplies have lower margins and Electronics show growth potential.
+
+Workforce Efficiency: 
+- Sales performance is balanced, but revenue per employee can be improved through better regional and customer alignment.
+
+Business Dependency Risk: 
+- The company is heavily reliant on specific regions and customer segments, increasing vulnerability.
+
+How This Analysis Informs Decision-Making:
+
+- Helps management identify high-performing regions and customer segments to prioritise investment.
+- Supports pricing and discount strategies to protect profit margins.
+- Enables data-driven workforce planning, ensuring employees are assigned to areas with the highest potential return.
+- Highlights underperforming areas, allowing targeted marketing and sales strategies to improve performance.
+- Provides insight into risk exposure, encouraging diversification of customers and regions.
+
+
+Recommendations / Next Steps:
+
+- Reduce excessive discounting to improve overall profitability.
+- Diversify the customer base and regions to reduce reliance on corporate clients in specific areas.
+- Target underperforming regions with marketing campaigns and improved product availability.
+- Increase customer retention through personalised promotions based on purchase history.
+- Optimise workforce allocation by assigning sales staff to high-demand regions and customer segments.
+
+Further Analysis:
+- Conduct deeper customer segmentation (e.g., behaviour or purchase frequency).
+- Analyse long-term trends to improve forecasting.
+- Explore product-level profitability to refine pricing and inventory strategies.
 
 ---
 
