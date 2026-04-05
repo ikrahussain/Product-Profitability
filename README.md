@@ -77,6 +77,7 @@ Key features/columns used:
 These features were essential for analysing revenue trends, profitability, product performance and workforce effectiveness.
 
 Preprocessing or cleaning Steps:
+
 Before performing the analysis in Power BI, the dataset was prepared to ensure accuracy and consistency:
   
 Data Cleaning:
