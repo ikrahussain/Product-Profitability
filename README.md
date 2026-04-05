@@ -31,7 +31,8 @@ The main objective was to identify key drivers of profitability, highlight high-
 I chose this dataset because it provides a comprehensive view of business operations, including sales, customers, employees and products, which makes it ideal for analysing overall business performance. The dataset allows for exploration of real-world business challenges such as revenue growth, profitability and workforce efficiency. I was particularly interested in understanding how different factors, such as customer segments, regions and discounting impact business success and decision-making.
 
 **Objective:**
-- The main objective of this analysis was to evaluate business performance and identify key drivers of revenue and profit. Specifically, the project aimed to answer the following questions:
+
+The main objective of this analysis was to evaluate business performance and identify key drivers of revenue and profit. Specifically, the project aimed to answer the following questions:
 - How do revenue and profit trends change over time?
 - Which products and categories contribute the most to sales and profitability?
 - How effective is the sales workforce in generating revenue?
@@ -40,6 +41,7 @@ I chose this dataset because it provides a comprehensive view of business operat
 - What question(s) are you trying to answer through this analysis?  
 
 **Learning Outcomes:**
+
 Through this project, I developed a stronger understanding of how to use Power BI to transform raw data into meaningful insights. I learned how to:
 - Create data models by linking multiple tables (customers, sales, products, employees and calendar data).
 - Build interactive dashboards to visualise trends in revenue, profit and sales performance.
