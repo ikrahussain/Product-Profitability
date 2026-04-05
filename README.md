@@ -28,6 +28,7 @@ The main objective was to identify key drivers of profitability, highlight high-
 ## Overview
 
 **Motivation:**
+
 I chose this dataset because it provides a comprehensive view of business operations, including sales, customers, employees and products, which makes it ideal for analysing overall business performance. The dataset allows for exploration of real-world business challenges such as revenue growth, profitability and workforce efficiency. I was particularly interested in understanding how different factors, such as customer segments, regions and discounting impact business success and decision-making.
 
 **Objective:**
