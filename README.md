@@ -73,10 +73,10 @@ Key features/columns used:
 - Employees Table: Employee Name, Role and Assigned Region
 - Calendar Table: Date, Year, Quarter, Month Number, Month Name and Year-Month
   
-- These features were essential for analysing revenue trends, profitability, product performanc and workforce effectiveness.
+These features were essential for analysing revenue trends, profitability, product performance and workforce effectiveness.
 
 Preprocessing or cleaning Steps:
-- Before performing the analysis in Power BI, the dataset was prepared to ensure accuracy and consistency:
+Before performing the analysis in Power BI, the dataset was prepared to ensure accuracy and consistency:
   
 Data Cleaning:
 - Removed duplicate records in Sales, Customers and Employees tables.
@@ -129,13 +129,7 @@ Dashboard-Specific Preparation:
 
 ## Usage
 
-Instructions for using the project:
-
-1. Open the main notebook (`analysis.ipynb`)  
-2. Run each cell sequentially to reproduce the analysis  
-3. Visualizations and results will be generated automatically  
-
-Include screenshots of your visualizations if available:  
+Instructions for using the project:  
 
 ![Visualization Example](assets/images/screenshot.png)  
 
@@ -147,14 +141,10 @@ Include screenshots of your visualizations if available:
 
 ## Analysis & Visualizations 
 
-Summarize your findings, insights, and visualizations:
-
 1. Revenue and Profit Trends:
 - Revenue shows steady growth over time with clear seasonal peaks, largely driven by corporate customers in the East and North regions.
 - Profit remains mostly stable but is sensitive to high discounting, which can reduce profit margins.
 - Observation: There is a positive correlation between the regions with higher corporate customer activity and overall revenue growth.
-
-
 
 <img width="400" height="368" alt="image" src="https://github.com/user-attachments/assets/a4a05aa0-8a39-4079-8e4f-80c1482d059c" />
 
@@ -164,9 +154,7 @@ Summarize your findings, insights, and visualizations:
 - Electronics sales are increasing, though at a lower volume.
 - Observation: High-volume products like Furniture drive profit, while low-volume products like Electronics present growth opportunities.
 
-
 <img width="578" height="728" alt="image" src="https://github.com/user-attachments/assets/d1e6a90d-c7e1-40c1-914d-dfe1e58ed08d" />
-
 
 3. Sales Workforce Effectiveness:
    - Sales output is relatively balanced, but Revenue per Employee can be improved by targeting high-demand regions and customer segments.
@@ -186,16 +174,6 @@ Opportunities:
 - Optimize workforce allocation by assigning sales staff to high-value regions and customer segments.
 
 <img width="665" height="369" alt="image" src="https://github.com/user-attachments/assets/732c0ee7-60b7-496e-9064-6bef53c48dba" />
-
-
-
-- Describe the key trends and patterns you observed
-
-
-
-
-- Show charts, graphs, and tables  ![Graph](img1.png)
-- Include important observations or correlations found in the data  
 
 ---
 
