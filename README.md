@@ -158,15 +158,21 @@ Instructions for using the project:
 - Office Supplies and Accessories show steady sales growth but have lower profit margins.
 - Electronics sales are increasing, though at a lower volume.
 - Observation: High-volume products like Furniture drive profit, while low-volume products like Electronics present growth opportunities.
+  
 
 <img width="578" height="728" alt="image" src="https://github.com/user-attachments/assets/d1e6a90d-c7e1-40c1-914d-dfe1e58ed08d" />
+
+
 
 3. Sales Workforce Effectiveness:
    - Sales output is relatively balanced, but Revenue per Employee can be improved by targeting high-demand regions and customer segments.
    - Example: Focusing sales in the East region with corporate customers can maximize revenue.
    - Conversely, underperforming regions and customer segments present opportunities for promotional campaigns and sales realignment.
 
+
   <img width="401" height="378" alt="image" src="https://github.com/user-attachments/assets/03f06589-8adc-4efb-9207-41e512722223" />
+
+
 
 4. Risks and Opportunities
 
@@ -179,7 +185,10 @@ Opportunities:
 - Enhance customer retention through personalized offers based on past purchases.
 - Optimize workforce allocation by assigning sales staff to high-value regions and customer segments.
 
+
 <img width="665" height="369" alt="image" src="https://github.com/user-attachments/assets/732c0ee7-60b7-496e-9064-6bef53c48dba" />
+
+
 
 ---
 
