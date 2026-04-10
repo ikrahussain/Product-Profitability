@@ -7,7 +7,6 @@ This project used a business dataset containing customer, employee, product, sal
 
 The main objective was to identify key drivers of profitability, highlight high- and low-performing regions and customer segments and uncover risks such as over-reliance on specific markets and the impact of discounting on profit margins. Additionally, the project aimed to explore opportunities to improve sales performance, optimise workforce allocation and support data-driven decision-making for business growth.
 
-[Notebook Link](https://github.com/Sodiq-Shodimu/nexygen-project/blob/main/preprocessed.ipynb)  
 
 ---
 
