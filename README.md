@@ -135,7 +135,7 @@ Dashboard-Specific Preparation:
 
 Instructions for using the project:  
 
-![Visualization Example](assets/images/screenshot.png)  
+
 
 <img width="2020" height="1131" alt="image" src="https://github.com/user-attachments/assets/b6ef2989-65bf-46e7-8f05-c5830971efc0" />
 <img width="1433" height="1105" alt="image" src="https://github.com/user-attachments/assets/d1894bc1-702d-4f2f-b7f1-b524f3c39eb5" />
